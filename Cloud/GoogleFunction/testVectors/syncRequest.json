@@ -1,0 +1,8 @@
+{
+    "inputs": [
+        {
+            "intent": "action.devices.SYNC"
+        }
+    ],
+    "requestId": "2555057499472895431"
+}

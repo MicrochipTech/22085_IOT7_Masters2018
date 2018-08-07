@@ -1,0 +1,22 @@
+{
+    "directive": {
+      "header": {
+        "namespace": "Alexa.PowerController",
+        "name": "TurnOn",
+        "payloadVersion": "3",
+        "messageId": "897fdec9-f31c-4f67-a117-2599991625d2",
+        "correlationToken": "AAAAAAAAAQDjhTMSHTsDryP6QjNMAaxvpAEAAAAAAABrdjTIRlaQbJV5YbmCnwOLsl9jOk/oySCrInfjiQ600J0t3eLQQQ6rVNaQwNZBoqqFETzXTeDW9n0mqKdQgaaw6sXRm71kLHthT88KiBi4UpMt6VKFTL3O5f84ESHQqd53W1UH5w0sXLykgtxQKnZRyNgicMYITuSPu7elNvLXHED+tKkcGgy1+eIOs7hJKnKxPQ8SqABsnxE7q5Xb7iHbBLpxj/XIEBhyjoHB874eq1L1W5cTakLADaAYZnq1gel8i9LdksECRU58UZnNARCNz9kZqxBCjyP9RFH4buIFxSlJ0NaSraEak5CaUAqgIuk6EDghGZ8dDGwjHXUlsIhShaQznxrk87PRtQRTsH7UIWvNiZmLBWHoBmJFYkJ3/67PFAgKnFQru7wAuuEMjmjRSyhqSXMbBNDFaFhvUOBqzrApcZnW7oUaIMTr9s6KURgwfX/3KsA1EYpvMWRTpr2za6pV4xe6qjY022Jy1aUBWLMwxI7wfR3D8xNSWbA92PM58dDbcPZP9AhKgJUvkGjlwJn9KtHIG0D4zqekTL8p38KVcpg="
+      },
+      "endpoint": {
+        "scope": {
+          "type": "BearerToken",
+          "token": "Atza|IwEBIJe6hVGPAp_2SNkzIEuPbNKy1Ywf2jI_GTpJdwnT1JLERQXrpmN1jLCOIevcm8hfQPJIrA6AYSBF5dieXYkJFknBagnHeJ8d3tFuxYhsJVlBCxMFG1A2bzAj6nFAvq5BcjXykPgJqcvgO877o3OBA14Dq88Qs0G7jE_MsAJeqNfxVi9uXtSD1VTTGN7R2PyRO8jDzlsCWap2_cl63MeD8uumTr6o_gIZwXYLAkbiOiED8gOCuRatqKOH4sHsWViQpbt4Cwm4AIurOt9io-9RMQbfiZxWO9GuW9rSlBhDLQQWX6LSW9NHEWKJwol0sldMapTKmLGAdy-t6X7COAbrswTz1Hzgc8MnWVpfQGy0oD3WiR_chCKfcWwfG8_jXu4zURlXhQApYTPxStjH-E8kYWp0qqd6jmxx_zx_p4dEiFwBGPwG8fLgbtFywjvTK6B0ugC2-SO5Mn0zcaNa4NbGi5o1ZybAOT_QH6p6vAwB4mbcuSneEMPupjPm94A6Qa-1l2k"
+        },
+        "endpointId": "GCPDevice1",
+        "cookie": {
+           "registry": "microchipGCP"
+        }
+      },
+      "payload": {}
+    }
+  }

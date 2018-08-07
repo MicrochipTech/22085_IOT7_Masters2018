@@ -1,0 +1,30 @@
+{
+    "inputs": [
+        {
+            "intent": "action.devices.EXECUTE",
+            "payload": {
+                "commands": [
+                    {
+                        "devices": [
+                            {
+                                "customData": {
+                                    "registry": "microchipGCP"
+                                },
+                                "id": "WINC1500_B6-A1"
+                            }
+                        ],
+                        "execution": [
+                            {
+                                "command": "action.devices.commands.OnOff",
+                                "params": {
+                                    "on": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "requestId": "4493077082477046659"
+}
