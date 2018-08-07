@@ -38,17 +38,17 @@
 #ifdef CONFIG_USE_STATIC_CONFIG
 
 /* Example Configuration Data  Global Variables */
-const char config_demo_ssid[] = "DEMO_AP";
-const char config_demo_pass[] = "PASSWORD1234";
+const char config_demo_ssid[] = "MCHPORANGE";
+const char config_demo_pass[] = "CHALLENGER";
 
 /** Name of the mqtt service */
 const char      config_gcp_host_name[] = "mqtt.googleapis.com";
 /** Port of the mqtt service */
 const uint32_t  config_gcp_mqtt_port = 443;
 
-const char config_gcp_project_id[] = "PROJECT_ID";
-const char config_gcp_region_id[] = "PROJECT_REGION";
-const char config_gcp_registry_id[] = "REGISTRY_ID";
+const char config_gcp_project_id[] = "microchipgcp-e9571";
+const char config_gcp_region_id[] = "us-central1";
+const char config_gcp_registry_id[] = "microchipGCP";
 char config_gcp_thing_id[] = "WINC1500_00-00";  //this will be overwritten with mac address based name in wifi_task
 
 #endif /* CONFIG_USE_STATIC_CONFIG */
